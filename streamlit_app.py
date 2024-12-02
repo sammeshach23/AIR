@@ -2,16 +2,16 @@ import streamlit as st
 
 # Experiment names and their corresponding code files
 experiments = {
-    "Experiment 1: Sliding Crank": "Sliding Crank.linkage2",
-    "Experiment 2: Subscriber & Publisher": "AIR_Publisher_and_Subscriber.ipynb",
-    "Experiment 3: Forward 2D": "experiment3_code.py",
-    "Experiment 4: Inverse 2D": "experiment4_code.py",
-    "Experiment 5: Forward 3D": "experiment5_code.py",
-    "Experiment 6: Inverse 3D": "experiment6_code.py",
-    "Experiment 7: Four Bar Linkage": "FOUR BAR LINKAGE.linkage2",
-    "Experiment 8: Pick and Place": "Pick nd place.linkage2",
-    "Experiment 9: SLAM": "SLAM_EXP.txt",
-    "Experiment 10: Analyze torque and force": "experiment11_code.py",
+    "1: Sliding Crank": "Sliding Crank.linkage2",
+    "2: Subscriber & Publisher": "AIR_Publisher_and_Subscriber.ipynb",
+    "3: Forward 2D": "experiment3_code.py",
+    "4: Inverse 2D": "experiment4_code.py",
+    "5: Forward 3D": "experiment5_code.py",
+    "6: Inverse 3D": "experiment6_code.py",
+    "7: Four Bar Linkage": "FOUR BAR LINKAGE.linkage2",
+    "8: Pick and Place": "Pick nd place.linkage2",
+    "9: SLAM": "SLAM_EXP.txt",
+    "10: Analyze torque and force": "experiment11_code.py",
 }
 
 # Function to generate a placeholder code file for download
