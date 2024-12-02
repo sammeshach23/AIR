@@ -10,7 +10,7 @@ experiments = {
     "Experiment 6: Inverse 3D": "experiment6_code.py",
     "Experiment 7: Four Bar Linkage": "FOUR BAR LINKAGE.linkage2",
     "Experiment 8: Pick and Place": "Pick nd place.linkage2",
-    "Experiment 9: SLAM": "SLAM_EXP.txt""SLAM.ipynb",
+    "Experiment 9: SLAM": "SLAM_EXP.txt",
     "Experiment 10: Analyze torque and force": "experiment11_code.py",
 }
 
